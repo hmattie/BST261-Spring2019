@@ -5,35 +5,25 @@ Deep learning is a subfield of machine learning that builds predictive models us
 All course material will be posted here. See below for assignment deadlines.
 
 ### Course Instructor
-Heather Mattie
-
-Instructor of Data Science
-
-Harvard T.H. Chan School of Public Health
-
-Building 1 Room 421A, 655 Huntington Ave, Boston MA 02115
-
-hemattie@hsph.harvard.edu
-
+Heather Mattie  
+Instructor of Data Science  
+Harvard T.H. Chan School of Public Health  
+Building 1 Room 421A, 655 Huntington Ave, Boston   
+hemattie@hsph.harvard.edu  
 Office Hour: Wednesdays 1-3pm or by appointment
 
 ### Course Teaching Assistants
-Matt Ploenzke
-
-PhD Candidate, Biostatistics
-
-ploenzke@g.harvard.edu
-
-Office Hour: TBD
+Matt Ploenzke  
+PhD Candidate, Biostatistics  
+ploenzke@g.harvard.edu  
+Office Hour: TBD  
 
 
-Aaron Sonabend
+Aaron Sonabend  
+PhD Candidate, Biostatistics  
+asonabend@g.harvard.edu  
+Office Hour: TBD  
 
-PhD Candidate, Biostatistics
-
-asonabend@g.harvard.edu
-
-Office Hour: TBD
 
 #### Homework 1: Due Sunday, April 7th by 11:59pm
 
