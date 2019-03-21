@@ -16,7 +16,7 @@ Office Hour: Wednesdays 1-3pm or by appointment
 Matt Ploenzke  
 PhD Candidate, Biostatistics  
 ploenzke@g.harvard.edu  
-Office Hour: TBD  
+Office Hour: Fridays 11:15-12:15pm, Kresge 202A  
 
 
 Aaron Sonabend  
@@ -25,9 +25,11 @@ asonabend@g.harvard.edu
 Office Hour: TBD  
 
 
-#### Homework 1: Due Sunday, April 7th by 11:59pm
+#### Homework 1: Due Monday, April 8th by 11:59pm
 
-#### Homework 2: Due Sunday, April 28th by 11:59pm
+#### Homework 2: Due Monday, April 22nd by 11:59pm
 
-#### Group Project Notebook: Due Sunday, May 19th by 11:59pm
+#### Homework 3: Due Monday, May 10th by 11:59pm
+
+#### Group Project Proposal: Due Wednesday, May 15th by 11:59pm
 
