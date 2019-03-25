@@ -16,7 +16,7 @@ Office Hour: Wednesdays 1-3pm or by appointment
 Matt Ploenzke  
 PhD Candidate, Biostatistics  
 ploenzke@g.harvard.edu  
-Office Hour: Fridays 11:15-12:15pm, Kresge 202A, except 3/29 and 5/17
+Office Hour: Fridays 11:15-12:15pm, Kresge 202A, except 3/29 and 5/17  
 Labs: Fridays 9:45-11:15am, LL6, except 3/29 and 5/17
 
 
