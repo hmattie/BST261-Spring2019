@@ -23,7 +23,7 @@ Labs: Fridays 9:45-11:15am, LL6, except 3/29 and 5/17
 Aaron Sonabend  
 PhD Candidate, Biostatistics  
 asonabend@g.harvard.edu  
-Office Hour: TBD  
+Office Hour: Thursdays 1-2pm, Heather's Office  
 
 
 #### Homework 1: Due Monday, April 8th by 11:59pm
