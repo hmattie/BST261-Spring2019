@@ -26,11 +26,11 @@ asonabend@g.harvard.edu
 Office Hour: Thursdays 1-2pm, Heather's Office  
 
 
-#### Homework 1: Due Monday, April 8th by 11:59pm
+#### Homework 1: Due Friday, April 12th by 11:59pm
 
-#### Homework 2: Due Monday, April 22nd by 11:59pm
+#### Homework 2: Due Friday, April 26th by 11:59pm
 
-#### Homework 3: Due Monday, May 10th by 11:59pm
+#### Homework 3: Due Friday, May 10th by 11:59pm
 
 #### Group Project Proposal: Due Wednesday, May 15th by 11:59pm
 
